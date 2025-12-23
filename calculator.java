@@ -3,6 +3,7 @@ public class calculator{
     {
         int a=10,b=5;
         System.out.println("Adiition:"+ (a+b));
+         System.out.println("Division:"+ (a/b));
 
     }
 }
